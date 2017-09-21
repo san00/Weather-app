@@ -1,0 +1,22 @@
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.boxes {
+  text-align: center
+}
+
+#temp_f {
+  display: none;
+}
+
+#text_f {
+  display: none;
+}
+
+button {
+  border-radius: 2em;
+  border-color: green;
+}
