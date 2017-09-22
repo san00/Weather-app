@@ -2,10 +2,11 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
+  margin-top: 5em;
 }
 
 .boxes {
-  text-align: center
+  text-align: center;
 }
 
 #temp_f {
