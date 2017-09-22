@@ -7,6 +7,7 @@
 
 .boxes {
   text-align: center;
+  font-size: 1.2em;
 }
 
 #temp_f {
@@ -20,4 +21,10 @@
 button {
   border-radius: 2em;
   border-color: green;
+}
+.tempdesc{
+font-size: 1.3em;
+}
+#weathercondtext{
+  font-size: 1.2em;
 }
